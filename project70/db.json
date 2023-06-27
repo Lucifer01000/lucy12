@@ -1,0 +1,17 @@
+{
+  "tasks": [
+   { 
+    "id": "1",
+    "text": "neywe cekmek",
+    "day": "hergun",
+    "reminder": true
+  },
+  {
+    "id":"2",
+    "text":"neyweni buraxmaq",
+    "day":"hec vaxt",
+    "reminder": true
+  }
+  ] 
+}
+    
